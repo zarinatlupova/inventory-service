@@ -1,0 +1,7 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:2910/inventory_db
+    username: postgres
+    password: zarina29
+  flyway:
+    enabled: true
